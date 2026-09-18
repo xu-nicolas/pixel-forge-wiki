@@ -1,11 +1,11 @@
 {
-  "name": "Anvil Quest Wiki",
-  "short_name": "AQ Wiki",
-  "description": "Complete Anvil Quest wiki with boss guides, codes, and tier lists.",
+  "name": "Pixel Forge Wiki",
+  "short_name": "PF Wiki",
+  "description": "Complete Pixel Forge wiki with boss guides, codes, tier lists, and beginner tips. Every page carries a last-verified date.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#f36716",
+  "theme_color": "#7c3bed",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
